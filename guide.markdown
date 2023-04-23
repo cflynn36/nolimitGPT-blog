@@ -5,7 +5,7 @@ permalink: /guide/
 ---
 
 # A Complete Guide to Creating a DAN Bot with OpenAI API and Node.js
-![Alt text](/nolimitGPT-blog/danbot.png "Screenshot of Danbot")
+![Alt text](/danbot.png "Screenshot of Danbot")
 ## Introduction
 
 - The OpenAI API is a powerful tool that allows developers to access advanced AI models, like GPT-3, for a wide range of tasks including natural language understanding, text generation, translation, and more. With the OpenAI API, you can create applications that can understand and generate human-like text, making it possible to build advanced chatbots, content generators, and other AI-driven services.
@@ -315,8 +315,7 @@ Building on this foundation, you can continue to experiment with different confi
 
 ## External Resources
 
-- [OpenAI API documentation](https://beta.openai.com/docs/)
+- [OpenAI API documentation](https://platform.openai.com/docs/introduction)
 - [Node.js documentation](https://nodejs.org/en/docs/)
-- [Node.js tutorial for beginners](https://www.tutorialspoint.com/nodejs/index.htm)
-- [Article on the ethical implications of AI](https://www.weforum.org/agenda/2019/05/ethics-artificial-intelligence-big-data/)
-- [FreeCodeCamp article on building chatbots with Node.js](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-node-js/)
+- [Article on the ethical implications of AI](https://en.unesco.org/artificial-intelligence/ethics/cases
+)
