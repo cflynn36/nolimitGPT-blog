@@ -5,7 +5,7 @@ title: About
 layout: home
 ---
 # Improving the nolimitGPT Web App: A Comprehensive Guide for Successors
-![Alt text](/nolimitgpt.png "Screenshot of nolimitGPT")
+![Alt text](/nolimitGPT-blog/nolimitgpt.png "Screenshot of nolimitGPT")
 
 [App hosted on HerokuApp](https://rocky-falls-15188.herokuapp.com/)   
 [Github source code](https://github.com/cflynn36/nolimitGPT)
