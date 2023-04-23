@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
         A blog post detailing my journey of creating a SAAS webapp using technologies such as Nodejs, Expressjs, Stripe, MongoDB & Webflow.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /cflynn36
+baseurl: /
 url: https://cflynn36.github.io
 
 twitter_username: 
